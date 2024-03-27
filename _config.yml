@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 小可的博客
 subtitle: ''
 description: ''
 keywords:
@@ -104,3 +104,4 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/50737907653/50737907653.github.io.git
+  branch: main
